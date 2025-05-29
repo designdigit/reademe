@@ -25,7 +25,7 @@
 ![image](https://example.com/image.png)
 
 <!-- 비디오 : ![대체 텍스트](이미지 URL), <img> -->
-![image](/video/tiny.mp4)
+![image](https://designdigit.github.io/reademe/video/tiny.mp4)
 
 <!-- 로고 -->
 ![HTML](https://img.shields.io/badge/-HTML-F05032)
